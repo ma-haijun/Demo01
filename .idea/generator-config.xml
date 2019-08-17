@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="class_detail">
+          <value>
+            <Config>
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="ClassDetailMapper" />
+              <option name="daoPackage" value="com.dao" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="ClassDetail" />
+              <option name="modelPackage" value="com.bean" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="class_detail" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="class_detail" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapperdao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="teacher_course">
+          <value>
+            <Config>
+              <option name="daoMvnPath" value="src/main/java/" />
+              <option name="daoName" value="TeacherCourseMapper" />
+              <option name="daoPackage" value="com.dao" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TeacherCourse" />
+              <option name="modelPackage" value="com.bean" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="teacher_course" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="teacher_course_id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="teacher_course" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapperdao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="xsgl_class_schedule">
+          <value>
+            <Config>
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="XsglClassScheduleDao" />
+              <option name="daoPackage" value="com.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="XsglClassSchedule" />
+              <option name="modelPackage" value="com.bean" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="xsgl_class_schedule" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="xsgl_class_schedule" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapperdao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="initConfig">
+      <map>
+        <entry key="initConfig">
+          <value>
+            <Config>
+              <option name="daoPackage" value="com.dao" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelPackage" value="com.bean" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="initConfig" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="xmlPackage" value="mapperdao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/student_manage">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

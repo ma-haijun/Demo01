@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dao.ClassDetailMapper">
+  <resultMap id="BaseResultMap" type="com.bean.ClassDetail">
+    <result column="class_id" jdbcType="INTEGER" property="classId" />
+    <result column="course" jdbcType="VARCHAR" property="course" />
+    <result column="teacher" jdbcType="VARCHAR" property="teacher" />
+    <result column="term" jdbcType="VARCHAR" property="term" />
+    <result column="credit" jdbcType="VARCHAR" property="credit" />
+  </resultMap>
+</mapper>
