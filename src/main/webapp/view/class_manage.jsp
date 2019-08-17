@@ -73,7 +73,7 @@
     </c:forEach>
     </tbody>
 </table>
-<!-- Contextual button for informational alert messages -->
+<!-- Contextual button for informational alert      messages -->
 <button type="button" class="btn btn-info" style="width:50px;margin-left: 340px">首页</button>
 <button type="button" class="btn btn-info" style="width:70px;">上一页</button>
 <button type="button" class="btn btn-info" style="width:70px;">下一页</button>
